@@ -1,4 +1,6 @@
-curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+Command Used:
+curl https://api.github.com/repos/pranav-sheshendra/mcino-Introduction-to-Git-and-GitHub
+
 
 {
   "id": 1160625980,
