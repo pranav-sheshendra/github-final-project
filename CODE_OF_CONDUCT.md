@@ -13,8 +13,8 @@ Examples of behavior that contributes to a positive environment include:
 
 Examples of unacceptable behavior include:
 
-- Harassment or discrimination in any form
-- Trolling, insulting or derogatory comments
+- Harassment or discrimination
+- Trolling or insulting comments
 - Public or private harassment
 
 ## Enforcement Responsibilities
@@ -24,4 +24,10 @@ Project maintainers are responsible for clarifying standards of acceptable behav
 This Code of Conduct applies within all project spaces.
 
 ## Enforcement
-Instances of abusive behavior may be reported to the project maintainers.
+Instances of abusive behavior may be reported to project maintainers.
+
+## Enforcement Guidelines
+Project maintainers will follow these Community Impact Guidelines in determining consequences.
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant.
